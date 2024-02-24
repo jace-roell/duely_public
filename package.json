@@ -1,0 +1,11 @@
+{
+  "name": "your-package-name",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "cd server && npm start & cd ../client && npm start"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  }
+}
